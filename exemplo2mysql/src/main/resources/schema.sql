@@ -1,0 +1,7 @@
+--DROP TABLE IF EXISTS cliente;
+--
+--CREATE TABLE cliente (
+--       id_cliente BIGIT AUTO_INCREMENT NOT NULL,
+--       nome VARCHAR(255) NULL,
+--       renda DOUBLE NULL,
+--       PRIMERY KEY (id_cliente));
